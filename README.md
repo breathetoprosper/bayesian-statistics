@@ -1,2 +1,2 @@
 # bayesian-statistics
-all bayes
+all things bayes
